@@ -51,6 +51,10 @@ If you ran the test in headles mode than Mocha test report are generated at cypr
 
 ![My_Image](./MochaTestReportsHtml.png)
 
+## Demo of running test via Cypress test runner
+
+![My_Image](./RunCypressTestViaRunner.gif)
+
 ## Authors
 
 Youva Acharya\
