@@ -1,0 +1,14 @@
+{
+  "sender": {
+    "username": "youva",
+    "password": "Automation@123"
+  },
+  "contact": {
+    "firstName": "Johns",
+    "lastName": "Edgar"
+  },
+  "payment": {
+    "amount": "120",
+    "note": "This is note added for gift by automation"
+  }
+}

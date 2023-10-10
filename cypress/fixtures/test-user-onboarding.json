@@ -1,0 +1,15 @@
+{
+  "user": {
+    "firstName": "Youva",
+    "lastName": "Acharya",
+    "username": "youva",
+    "password": "Automation@123",
+    "email": "youva@gmail.com",
+    "phoneNumber": "6542235465"
+  },
+  "bankdetail": {
+    "bankname": "Bank Of America",
+    "routingNumber": "112213456",
+    "accountNumber": "123321123"
+  }
+}

@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# reports 
+cypress/reports/mocha
+
+# screenshots
+cypress/screenshots/
+
+# Optional npm cache directory
+.npm
+
+# OS or Editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Compiled output from TypeScript (if applicable)
+/*.js
+
+# Lock files
+package-lock.json
+yarn.lock
