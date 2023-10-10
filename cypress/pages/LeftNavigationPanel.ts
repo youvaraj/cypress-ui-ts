@@ -1,4 +1,5 @@
-//cypress/pages/LoginPage.ts
+//cypress/pages/LeftNavigationPanel.ts
+
 import { LeftNavigationPanelSelectors } from 'cypress/selectors';
 import actions from 'cypress/support/actions';
 

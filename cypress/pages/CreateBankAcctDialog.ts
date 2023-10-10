@@ -1,4 +1,5 @@
-//cypress/pages/LoginPage.ts
+//cypress/pages/CreateBankAcctDialog.ts
+
 import { CreateBankAcctDialogSelectors } from 'cypress/selectors';
 import actions from 'cypress/support/actions';
 

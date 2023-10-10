@@ -1,4 +1,5 @@
-//cypress/pages/LoginPage.ts
+//cypress/pages/SignUpPage.ts
+
 import { SignUpPageSelectors } from 'cypress/selectors';
 import actions from 'cypress/support/actions';
 

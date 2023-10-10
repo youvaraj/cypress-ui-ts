@@ -1,4 +1,5 @@
-//cypress/pages/LoginPage.ts
+//cypress/pages/UserOnBoardingPageDialog.ts
+
 import { UserOnBoardingDialogSelectors } from 'cypress/selectors';
 import actions from 'cypress/support/actions';
 

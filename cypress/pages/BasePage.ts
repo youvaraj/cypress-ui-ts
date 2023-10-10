@@ -1,4 +1,5 @@
-//cypress/pages/HomePage.ts
+//cypress/pages/BasePage.ts
+
 import { BasePageSelectors } from 'cypress/selectors';
 import actions from 'cypress/support/actions';
 
