@@ -45,26 +45,19 @@ Note: You can update the test script in package.json to run the test in headless
   },
 ```
 
-Run similar test or run as group that matches the certain file name.Note: In cypress there is no built-in support to run as group by. Here I have written cypress-script.ts at root folder which takes parameters and run as following.
+Run similar test or run as group that matches the certain file name. Note: In cypress there is no built-in support to run as group by. Here I have written cypress-script.ts at root folder which takes parameters and can be run as following.
 
 ```
 npm run filter <param1> <param2> <param3>
-
-
-
-Example Usage
-To run all the test that are named as 'batch1' in 'headed' mode for chrome you can run
-npm run filter batch1 headed chrome
-
 ```
 
-'npm run file' takes three parameters file name pattern, headed and browser name.
+'npm run filter' takes three parameters: file name pattern, headed and browser name.
 
 **param1** = file name pattern that you want to match eg. sanity \
 **param2** = to specifiy if you want to run in headed or headeless mode. Empty means headless, 'headed' means in headed mode \
  **param3** = specify browser type such as 'chrome' 'firefox' etc, If empty it uses chrome by default.
 
-Example Usage
+Example Usage \
 To run all the spec for which file name matches 'sanity' and in headed mode for chrome, you can run below command
 
 ```
