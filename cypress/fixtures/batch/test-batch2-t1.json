@@ -1,0 +1,15 @@
+{
+  "user": {
+    "firstName": "Youva",
+    "lastName": "Acharya",
+    "username": "youva",
+    "password": "Automation@123",
+    "email": "youva@gmail.com",
+    "phoneNumber": "6542235465"
+  },
+  "test": {
+    "filename": "test-batch2-t1.json",
+    "tag": "batch2-t1"
+  },
+  "misc": {}
+}
